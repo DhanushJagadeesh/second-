@@ -1,6 +1,3 @@
 hello new file tes
 hello is this is the second line 
 hello new file test
-this is dhanush second line 
-i have added a newupdated file directly on the remote repo
-now ill hae to see whether it creates a merge conflict
