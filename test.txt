@@ -1,1 +1,2 @@
-hello new file test
+hello new file tes
+hello is this is the second line 
